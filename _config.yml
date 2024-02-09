@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Profile"
   avatar           : "Santeri_1.jpg"
-  bio              : "Postdoctoral researcher in inverse problems at the Department of Mathematical Sciences"
-  location         : "University of Oulu"
+  bio              : "Postdoctoral researcher in inverse problems at the Department of Mathematical Sciences, University of Oulu."
+  location         : "Oulu, Finland"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JLTvbIkAAAAJ"
